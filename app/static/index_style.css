@@ -1,0 +1,16 @@
+body{
+    margin: 0
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: blue;
+}
+
+.content h1,h2, h3{
+    font-family: Arial;
+    color: white;
+}
